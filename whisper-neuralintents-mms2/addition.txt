@@ -1,0 +1,8 @@
+1. Харилцан яриа өрнүүлэх: https://www.youtube.com/watch?v=F62wb_jfUUw
+2. GUI үүсгэх: https://www.youtube.com/watch?v=cNLXzXyuzUs
+3. 
+
+Sources:
+1. https://huggingface.co/blog/fine-tune-whisper
+2. Model: https://huggingface.co/bayartsogt/whisper-small-mn-12
+3. Paper: https://cdn.openai.com/papers/whisper.pdf
